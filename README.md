@@ -34,9 +34,9 @@ npm run dev
 
 前端现在通过 `VITE_SOCKET_URL` 读取 Socket 服务地址：
 
-- 开发环境：[`/Users/ljt/Documents/trae_projects/game/.env.development`](/Users/ljt/Documents/trae_projects/game/.env.development)
-- 生产环境：[`/Users/ljt/Documents/trae_projects/game/.env.production`](/Users/ljt/Documents/trae_projects/game/.env.production)
-- 本地覆盖示例：[`/Users/ljt/Documents/trae_projects/game/.env.local.example`](/Users/ljt/Documents/trae_projects/game/.env.local.example)
+- 开发环境：[`/game/.env.development`](/game/.env.development)
+- 生产环境：[`/game/.env.production`](/game/.env.production)
+- 本地覆盖示例：[`/game/.env.local.example`](/game/.env.local.example)
 
 建议用法：
 
